@@ -127,21 +127,29 @@ npm run preview  # Preview production build
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🌅 **Light Theme**
+<img src="https://i.ibb.co/JjRd907S/chess-master-mu-vercel-app.png" alt="Chess Master Light Theme" width="400" style="border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1); object-fit: contain; max-width: 100%; height: auto;"/>
+
 *Clean, professional interface perfect for focused gameplay*
 
-<img src="https://i.ibb.co/JjRd907S/chess-master-mu-vercel-app.png" alt="Chess Master Light Theme" width="700" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); margin: 20px 0;"/>
+</td>
+<td align="center" width="50%">
 
-### 🌙 **Dark Theme** 
+### 🌙 **Dark Theme**
+<img src="https://i.ibb.co/pjVsxGJL/chess-master-mu-vercel-app-1.png" alt="Chess Master Dark Theme" width="400" style="border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.2);"/>
+
 *Elegant dark mode for comfortable extended sessions*
 
-<img src="https://i.ibb.co/pjVsxGJL/chess-master-mu-vercel-app-1.png" alt="Chess Master Dark Theme" width="700" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); margin: 20px 0;"/>
+</td>
+</tr>
+</table>
 
 ### ✨ **Key Visual Features**
-- Beautiful chess piece designs with smooth animations
-- Intuitive move history panel with algebraic notation
-- Clean game controls with material design principles
-- Responsive layout that adapts to any screen size
+🎨 Beautiful chess pieces • 📜 Move history panel • 🎛️ Intuitive controls • 📱 Responsive design
 
 </div>
 
@@ -281,8 +289,6 @@ Found a bug? [Open an issue](https://github.com/NAITIK-builds/Chess-Master/issue
 - Chess.com for inspiration on modern chess interfaces
 - The React community for excellent ecosystem tools
 - All contributors who help make this project better
-
----
 
 <div align="center">
 
